@@ -1,0 +1,19 @@
+hello im jason welch, im brand new to coding and programing, im a first year college student majoring in computer science
+.Im wanting to learn how to code using the different types of coding, im wanting to learn how to create a blockchain and how to hack into a blockchain and crypto wallets
+Im wanting to learn how to write code that will allow me to fully take control over devices such as phones, pcs and laptops, im wanting to be able to create websites that mimic the real websites of financial institutions and stores and how to copy keystrokes from users
+Im wanting to know how to hack into phones, pcs, tablets to be able to fully see everything on the machines including all passwords, login information, credit and debit caed information and i want to learn how to hack nfc devices to gain control over them
+Im wanting to learn how to create emails and texts that when people open them i gain control over there phones, pvs, tablets
+im wanting to know how to use skimmers to have all card information sent to my phone or pc, im wanting to learn how to hack into banks data bases to gain access to all peoples financial information
+Im wanting to learn how to navigate the dark web and buy stolen cards and howq to usae them correctly, i want to learn how to navigate through the daekweb and create websites there
+i want to learn how to create malware and how to use it- 👋 Hi, I’m @jason336801
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+jason336801/jason336801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
